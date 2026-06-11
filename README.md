@@ -53,7 +53,7 @@
 
 ## 📫 Contato
 
-📍 GitHub: https://github.com/caul37  
+📍 GitHub: https://github.com/EduardoCassin12 
 💬 Aberto a oportunidades de estágio e aprendizado
 
 ---
