@@ -42,14 +42,6 @@
 
 ---
 
-## 📊 GitHub em evolução
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caul37&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caul37&layout=compact&theme=radical)
-
----
-
 ## 🎯 Objetivos 2026
 
 - Conseguir meu primeiro estágio como dev
