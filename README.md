@@ -10,12 +10,12 @@
 
 📚 Atualmente estudando:
 - Lógica de Programação
-- JavaScript
-- HTML & CSS
-- Python
+- JavaScript (DOM, lógica e projetos)
+- HTML & CSS (estrutura e responsividade)
+- Python (bases e lógica)
 
 🎯 Objetivo:
-Conquistar minha primeira oportunidade como estagiário em desenvolvimento de software, evoluindo para me tornar um Desenvolvedor Full Stack.
+Conquistar minha primeira oportunidade de estágio em desenvolvimento web, evoluindo para me tornar um Desenvolvedor Full Stack.
 
 ---
 
@@ -41,35 +41,35 @@ Conquistar minha primeira oportunidade como estagiário em desenvolvimento de so
 
 ## 🚧 Projetos em destaque
 
-📌 Aqui estão alguns projetos que estou desenvolvendo:
+📌 Projetos que estou desenvolvendo para praticar e evoluir:
 
-- 🧮 Calculadora em JavaScript (lógica básica)
-- 🌐 Página pessoal de portfólio (em construção)
+- 🧮 Calculadora em JavaScript (lógica e DOM)
+- 📝 To-do list simples com JavaScript
+- 🌐 Página de portfólio pessoal (em construção)
 - 📋 Exercícios de lógica de programação
-- 🎮 Mini projetos para prática de JS
 
-👉 Mais projetos sendo adicionados constantemente.
+👉 Sempre evoluindo e adicionando novos projetos ao portfólio.
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caul37&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoCassin12&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caul37&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCassin12&layout=compact&theme=tokyonight)
 
 ---
 
-## 🧭 Objetivo profissional
+## 🎯 Objetivo profissional
 
-🎯 Busco minha primeira oportunidade de estágio como desenvolvedor, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir rapidamente na área de tecnologia.
+Busco minha primeira oportunidade de estágio em desenvolvimento web, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir constantemente na área de tecnologia.
 
 ---
 
 ## 📫 Contato
 
-- GitHub: https://github.com/caul37  
-- Disponível para oportunidades de estágio e aprendizado
+- GitHub: https://github.com/EduardoCassin12  
+- Aberto a oportunidades de estágio e aprendizado
 
 ---
 
