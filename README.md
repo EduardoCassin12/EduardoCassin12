@@ -52,14 +52,6 @@ Conquistar minha primeira oportunidade de estágio em desenvolvimento web, evolu
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoCassin12&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCassin12&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Objetivo profissional
 
 Busco minha primeira oportunidade de estágio em desenvolvimento web, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir constantemente na área de tecnologia.
@@ -68,7 +60,8 @@ Busco minha primeira oportunidade de estágio em desenvolvimento web, onde eu po
 
 ## 📫 Contato
 
-- GitHub: https://github.com/EduardoCassin12  
+- GitHub: https://github.com/EduardoCassin12
+- Linkedin: www.linkedin.com/in/eduardocassin
 - Aberto a oportunidades de estágio e aprendizado
 
 ---
