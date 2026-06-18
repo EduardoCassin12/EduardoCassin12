@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Eduardo Guedes Cassin Junior
+# 👋 Olá! Eu sou o Eduardo 
 
 🎓 Estudante de Engenharia de Software | 💻 Desenvolvedor em formação | 🚀 Foco em Desenvolvimento Full Stack
 
