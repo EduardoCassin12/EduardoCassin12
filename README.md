@@ -31,8 +31,6 @@ Atualmente, estou seguindo uma evolução por etapas, começando pelos fundament
 * Lógica de Programação
 * Algoritmos e resolução de problemas
 * Git & GitHub
-* JavaScript para reforço de lógica
-* HTML5 e CSS3 como base de Front-end
 
 ### ☕ Foco principal: Back-end com Java
 
