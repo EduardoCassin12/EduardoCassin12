@@ -1,4 +1,4 @@
-```md
+
 # 👋 Olá! Eu sou o Eduardo
 
 🎓 Estudante de Engenharia de Software  
