@@ -3,7 +3,7 @@
 
 🎓 Estudante de Engenharia de Software  
 💻 Desenvolvedor Back-end em formação  
-☕ Foco em Java, Python, SQL, APIs e Banco de Dados  
+☕ Foco em Java, SQL, APIs e Banco de Dados  
 🌎 Inglês Avançado  
 🚀 Em transição para a área de Tecnologia
 
@@ -15,7 +15,7 @@ Sou estudante de **Engenharia de Software** e estou em transição para a área 
 
 Tenho construído uma base sólida em **lógica de programação**, resolução de problemas e desenvolvimento de projetos práticos. Meu objetivo é evoluir constantemente, criando aplicações que resolvam problemas reais e me preparem para atuar profissionalmente na área de desenvolvimento de software.
 
-Também possuo conhecimentos básicos em **JavaScript e Python**, o que me ajuda a compreender melhor diferentes abordagens de desenvolvimento e fortalecer minha base em programação. Porém, meu foco principal de carreira está no **Back-end**, especialmente com **Java, SQL, APIs REST e banco de dados**.
+Também possuo conhecimentos básicos em **JavaScript**, o que me ajuda a compreender melhor diferentes abordagens de desenvolvimento e fortalecer minha base em programação. Porém, meu foco principal de carreira está no **Back-end**, especialmente com **Java, SQL, APIs REST e banco de dados**.
 
 Além da faculdade, busco cursos, desafios e projetos fora do ambiente acadêmico para acelerar minha evolução e desenvolver uma base técnica mais forte. Tenho **inglês avançado**, o que me permite estudar documentações, conteúdos técnicos e materiais internacionais com mais facilidade.
 
@@ -73,7 +73,6 @@ Atualmente, estou seguindo uma evolução por etapas, começando pelos fundament
 
 <div style="display: inline_block">
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
@@ -137,7 +136,6 @@ Minha jornada de estudos segue um roadmap focado em **Java, Python, SQL, APIs, b
 Aqui você encontrará projetos voltados para:
 
 - ☕ Java e Programação Orientada a Objetos
-- 🐍 Python
 - 🧠 Lógica de programação
 - 🗄️ SQL e banco de dados
 - 🔗 APIs REST
