@@ -1,173 +1,414 @@
+<!-- ========================================================= -->
 
-# 👋 Olá! Eu sou o Eduardo
+<!--                    SYSTEM INITIALIZATION                  -->
 
-🎓 Estudante de Engenharia de Software  
-💻 Desenvolvedor Back-end em formação  
-☕ Foco em Java, SQL, APIs e Banco de Dados  
-🌎 Inglês Avançado  
-🚀 Em transição para a área de Tecnologia
+<!-- ========================================================= -->
 
----
+<div align="center">
 
-## 🧠 Sobre mim
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:0d1117,100:111827&text=EDUARDO%20CASSIN&fontColor=00FF9C&fontSize=42&fontAlignY=38&desc=BACK-END%20DEVELOPER%20IN%20TRAINING&descAlignY=58&descColor=8B949E&animation=twinkling" width="100%"/>
 
-Sou estudante de **Engenharia de Software** e estou em transição para a área de tecnologia, com foco em **Desenvolvimento Back-end com Java**.
+<br>
 
-Tenho construído uma base sólida em **lógica de programação**, resolução de problemas e desenvolvimento de projetos práticos. Meu objetivo é evoluir constantemente, criando aplicações que resolvam problemas reais e me preparem para atuar profissionalmente na área de desenvolvimento de software.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+INITIALIZED+%5D;%3E+Loading+Eduardo's+Developer+Profile...;%3E+Java+%7C+SQL+%7C+REST+APIs+%7C+Databases;%3E+Back-end+Developer+in+Training;%3E+Building+the+future%2C+one+commit+at+a+time." alt="Typing Animation"/>
 
-Também possuo conhecimentos básicos em **JavaScript**, o que me ajuda a compreender melhor diferentes abordagens de desenvolvimento e fortalecer minha base em programação. Porém, meu foco principal de carreira está no **Back-end**, especialmente com **Java, SQL, APIs REST e banco de dados**.
+<br><br>
 
-Além da faculdade, busco cursos, desafios e projetos fora do ambiente acadêmico para acelerar minha evolução e desenvolver uma base técnica mais forte. Tenho **inglês avançado**, o que me permite estudar documentações, conteúdos técnicos e materiais internacionais com mais facilidade.
+<a href="https://github.com/EduardoCassin12">
+<img src="https://img.shields.io/github/followers/EduardoCassin12?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=00FF9C&labelColor=0D1117"/>
+</a>
 
----
+<a href="https://github.com/EduardoCassin12?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-00FF9C?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+</a>
 
-## 📚 Trilha de estudos atual
+<a href="https://www.linkedin.com/in/eduardocassin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00FF9C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
 
-Minha trilha de estudos está focada na construção de uma base sólida para atuar com **Desenvolvimento Back-end com Java**.
-
-Atualmente, estou seguindo uma evolução por etapas, começando pelos fundamentos da programação e avançando para banco de dados, APIs e ferramentas utilizadas no mercado.
-
-### ✅ Fundamentos
-
-- Lógica de Programação
-- Algoritmos e resolução de problemas
-- Git & GitHub
-
-### ☕ Foco principal: Back-end com Java
-
-- Java
-- Programação Orientada a Objetos
-- Estruturação de código
-- Boas práticas de programação
-- Manipulação de dados e regras de negócio
-
-### 🗄️ Banco de Dados
-
-- SQL
-- Modelagem de dados
-- Consultas e filtros
-- Relacionamentos entre tabelas
-- Integração entre aplicação e banco de dados
-
-### 🔗 Desenvolvimento Back-end
-
-- APIs REST
-- Fundamentos de requisições HTTP
-- Organização de rotas, serviços e responsabilidades
-- Integração com banco de dados
-- Node.js como apoio aos fundamentos de Back-end
-
-### 🚀 Próximos passos do roadmap
-
-- Spring Boot
-- JPA/Hibernate
-- Docker
-- Testes automatizados
-- Cloud básica
-- Terraform básico
-- Projetos práticos com foco em aplicações reais
-
----
-
-## 🚀 Tecnologias
-
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
 ---
 
-## 🛠️ Projetos em desenvolvimento
+# `> SYSTEM PROFILE`
 
-Atualmente estou construindo projetos práticos voltados para **Back-end**, com o objetivo de aplicar lógica de negócio, organização de código, banco de dados e boas práticas de desenvolvimento.
+<table>
+<tr>
+<td width="60%">
 
-### 💰 API de Controle Financeiro Pessoal
-
-Projeto voltado para cadastro de receitas, despesas, categorias e controle financeiro.
-
-O objetivo é praticar:
-
-- Criação de regras de negócio
-- Organização de dados
-- Estruturação de uma aplicação Back-end
-- Integração com banco de dados
-- Criação de endpoints para gerenciamento financeiro
-
----
-
-### 📦 Sistema de Gestão de Estoque e Vendas
-
-Sistema para controle de produtos, entrada e saída de estoque, cadastro de clientes e registro de vendas.
-
-Esse projeto simula uma necessidade real de pequenos negócios e tem como objetivo praticar:
-
-- Cadastro e gerenciamento de produtos
-- Controle de estoque
-- Registro de vendas
-- Organização de funcionalidades
-- Modelagem de dados
-- Integração entre aplicação e banco de dados
-
----
-
-### ✅ API de Gerenciamento de Tarefas e Estudos
-
-Projeto para cadastro de tarefas, metas de estudo, status de progresso e organização da rotina.
-
-O foco desse projeto é praticar:
-
-- Criação de APIs
-- Estruturação de dados
-- Organização de rotas e responsabilidades
-- Controle de status de tarefas
-- Desenvolvimento de funcionalidades úteis para o dia a dia
-
----
-
-## 📈 Atualmente desenvolvendo
-
-Estou utilizando este GitHub para documentar minha evolução como desenvolvedor Back-end em formação.
-
-Minha jornada de estudos segue um roadmap focado em **Java, Python, SQL, APIs, banco de dados e ferramentas modernas de desenvolvimento**, sempre aplicando o conteúdo aprendido em projetos práticos.
-
-Aqui você encontrará projetos voltados para:
-
-- ☕ Java e Programação Orientada a Objetos
-- 🧠 Lógica de programação
-- 🗄️ SQL e banco de dados
-- 🔗 APIs REST
-- ⚙️ Fundamentos de Back-end
-- 📂 Git e GitHub
-- 🐳 Docker e ferramentas de ambiente
-- ☁️ Fundamentos de Cloud e Terraform
-- 🚀 Projetos práticos para evolução contínua
-
-Novos projetos são adicionados conforme avanço nos estudos e aprofundo minha base técnica.
-
----
-
-## 🎯 Objetivo profissional
-
-Estou em busca da minha **primeira oportunidade de estágio** na área de desenvolvimento de software, com foco em **Back-end**.
-
-Quero aprender com profissionais experientes, participar de projetos reais, contribuir com dedicação e continuar evoluindo tecnicamente todos os dias.
-
-Meu foco de carreira é atuar como **Desenvolvedor Back-end**, trabalhando principalmente com **Java, APIs, banco de dados e soluções que resolvam problemas reais**.
-
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: <https://www.linkedin.com/in/eduardocassin>
-- 💻 GitHub: <https://github.com/EduardoCassin12>
-
----
-
-## 📖 Filosofia
-
-> "A evolução acontece todos os dias. Cada projeto é um passo em direção ao próximo desafio."
+```text
+┌──────────────────────────────────────────────┐
+│              DEVELOPER PROFILE               │
+├──────────────────────────────────────────────┤
+│                                              │
+│  NAME       :: Eduardo Cassin                │
+│  ROLE       :: Back-end Developer in Training│
+│  EDUCATION  :: Software Engineering          │
+│  LANGUAGE   :: Portuguese / Advanced English │
+│  FOCUS      :: Java + SQL + REST APIs        │
+│  STATUS     :: [ ONLINE ]                    │
+│                                              │
+│  OBJECTIVE  :: First opportunity in Tech     │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,sql,git,github,vscode&perline=3" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING-00FF9C?style=for-the-badge&labelColor=0D1117"/>
+<br>
+<img src="https://img.shields.io/badge/FOCUS-BACK--END-00FF9C?style=for-the-badge&labelColor=0D1117"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# `> ABOUT_ME.exe`
+
+🎓 Estudante de **Engenharia de Software** e **Desenvolvedor Back-end em formação**, atualmente em transição para a área de Tecnologia.
+
+Meu foco principal é construir uma base sólida para atuar profissionalmente com **Java, SQL, APIs REST e bancos de dados**.
+
+Tenho estudado programação através de cursos, desafios e projetos práticos, buscando não apenas aprender sintaxe, mas compreender **lógica, organização de código, regras de negócio e resolução de problemas**.
+
+Também possuo conhecimentos básicos em **JavaScript**, que contribuem para ampliar minha visão sobre desenvolvimento de software.
+
+Meu objetivo é transformar conhecimento em projetos reais, evoluindo gradualmente para tecnologias utilizadas no mercado, como **Spring Boot, JPA/Hibernate, Docker, testes automatizados e Cloud**.
+
+> `SYSTEM MESSAGE:` Continuously learning. Continuously building. Continuously improving.
+
+---
+
+# `> TECH_STACK`
+
+### ☕ Core Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js,python" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### 🔗 Back-end & APIs
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,spring" />
+</p>
+
+### 🛠️ Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" />
+</p>
+
+### ☁️ Next-Level Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,terraform" />
+</p>
+
+> **Current priority:** Java • SQL • REST APIs • Databases • Git/GitHub
+> **Next:** Spring Boot • JPA/Hibernate • Docker • Automated Testing • Cloud
+
+---
+
+# `> LEARNING_PROTOCOL`
+
+```text
+[████████████████████████████████████████] 100%  Logic & Programming Fundamentals
+[██████████████████████████████████████░░]  90%  Git & GitHub
+[████████████████████████████████████░░░░]  80%  Java Fundamentals
+[██████████████████████████████░░░░░░░░░░]  65%  Object-Oriented Programming
+[██████████████████████████░░░░░░░░░░░░░░]  55%  SQL & Databases
+[██████████████████████░░░░░░░░░░░░░░░░░░]  45%  REST APIs
+[███████████████░░░░░░░░░░░░░░░░░░░░░░░░░]  35%  Spring Boot
+[██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  25%  Docker
+[███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  20%  Automated Testing
+[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  15%  Cloud & Terraform
+```
+
+---
+
+# `> PROJECTS`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+## 💰 Personal Finance API
+
+**Status:** `IN DEVELOPMENT`
+
+API destinada ao gerenciamento de finanças pessoais.
+
+### Features planejadas
+
+* Cadastro de receitas
+* Cadastro de despesas
+* Categorias
+* Regras de negócio
+* Persistência de dados
+* Endpoints REST
+* Integração com banco de dados
+
+**Objetivo:** praticar desenvolvimento Back-end e modelagem de uma aplicação real.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📦 Inventory & Sales System
+
+**Status:** `IN DEVELOPMENT`
+
+Sistema para gerenciamento de estoque e vendas.
+
+### Features planejadas
+
+* Cadastro de produtos
+* Controle de estoque
+* Entrada e saída de produtos
+* Cadastro de clientes
+* Registro de vendas
+* Modelagem de dados
+* Integração Back-end + Database
+
+**Objetivo:** simular uma aplicação utilizada por pequenos negócios.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## ✅ Task & Study Manager
+
+**Status:** `PLANNED`
+
+API para organização de tarefas e estudos.
+
+### Features planejadas
+
+* Criação de tarefas
+* Metas de estudo
+* Status de progresso
+* Organização por categorias
+* Endpoints REST
+* Persistência de dados
+
+**Objetivo:** aplicar conceitos de APIs, organização de código e regras de negócio.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚀 Future Projects
+
+**STATUS:** `UPLINKING...`
+
+Projetos futuros serão adicionados conforme minha evolução no roadmap.
+
+```text
+Spring Boot
+     ↓
+JPA / Hibernate
+     ↓
+Testing
+     ↓
+Docker
+     ↓
+Cloud
+     ↓
+Production-ready APIs
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# `> CURRENT_OBJECTIVES`
+
+```bash
+eduardo@dev:~$ ./current_mission.sh
+
+[+] Building strong Java fundamentals
+[+] Improving Object-Oriented Programming
+[+] Learning SQL and database modeling
+[+] Developing REST APIs
+[+] Learning Spring Boot
+[+] Building practical Back-end projects
+[+] Studying automated testing
+[+] Exploring Docker and Cloud
+[+] Strengthening Git/GitHub workflow
+
+[!] PRIMARY OBJECTIVE:
+    Secure my first internship opportunity in Software Development.
+
+[STATUS]
+    ████████████████████████████████████ ONLINE
+```
+
+---
+
+# `> ROADMAP`
+
+```text
+                    BACK-END DEVELOPMENT ROADMAP
+
+                              ┌──────────────┐
+                              │   JAVA ☕     │
+                              └──────┬───────┘
+                                     │
+                                     ▼
+                         ┌─────────────────────┐
+                         │       POO           │
+                         │ Encapsulation       │
+                         │ Inheritance         │
+                         │ Polymorphism        │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   SQL / DATABASE    │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │      REST API       │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │    SPRING BOOT      │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │ JPA / HIBERNATE      │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │ TESTING + DOCKER    │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │    CLOUD / DEVOPS   │
+                         └─────────────────────┘
+```
+
+---
+
+# `> GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=EduardoCassin12&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCassin12&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=EduardoCassin12&theme=github-dark-blue&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+# `> CONTRIBUTION_ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoCassin12&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# `> ACHIEVEMENTS`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=EduardoCassin12&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="90%"/>
+
+</div>
+
+---
+
+# `> CONTRIBUTION_MATRIX`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/EduardoCassin12/EduardoCassin12/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+# `> PROFESSIONAL_NETWORK`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/eduardocassin">
+<img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Cassin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/EduardoCassin12">
+<img src="https://img.shields.io/badge/GitHub-EduardoCassin12-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# `> SYSTEM_LOG`
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                    SYSTEM LOG                           │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  [OK] Software Engineering Student                     │
+│  [OK] Back-end Development Path                         │
+│  [OK] Java Learning Protocol                           │
+│  [OK] SQL / Database Protocol                          │
+│  [OK] REST API Protocol                                │
+│  [OK] Git / GitHub Workflow                            │
+│  [RUNNING] Spring Boot                                 │
+│  [RUNNING] Automated Testing                           │
+│  [QUEUED] Docker                                       │
+│  [QUEUED] Cloud                                        │
+│                                                         │
+│  TARGET: FIRST SOFTWARE DEVELOPMENT INTERNSHIP         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+### `> KEEP_LEARNING()`
+
+**Every commit is progress. Every project is experience. Every challenge is another level.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111827,50:0d1117,100:050505&section=footer&animation=twinkling"/>
+
+</div>
