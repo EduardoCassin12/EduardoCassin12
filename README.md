@@ -318,9 +318,6 @@ eduardo@dev:~$ ./current_mission.sh
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EduardoCassin12&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCassin12&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
 
 <br><br>
 
