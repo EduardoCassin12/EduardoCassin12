@@ -338,25 +338,6 @@ eduardo@dev:~$ ./current_mission.sh
 
 </div>
 
----
-
-# `> ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EduardoCassin12&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="90%"/>
-
-</div>
-
----
-
-# `> CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/EduardoCassin12/EduardoCassin12/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</div>
 
 ---
 
