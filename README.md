@@ -314,18 +314,6 @@ eduardo@dev:~$ ./current_mission.sh
 
 ---
 
-# `> GITHUB_ANALYTICS`
-
-<div align="center">
-
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=EduardoCassin12&theme=github-dark-blue&hide_border=true" width="70%"/>
-
-</div>
-
----
 
 # `> CONTRIBUTION_ACTIVITY`
 
