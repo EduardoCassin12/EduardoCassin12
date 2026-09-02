@@ -92,7 +92,7 @@ Meu objetivo é transformar conhecimento em projetos reais, evoluindo gradualmen
 ### ☕ Core Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,js,python" />
+<img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ### 🗄️ Database
@@ -104,7 +104,7 @@ Meu objetivo é transformar conhecimento em projetos reais, evoluindo gradualmen
 ### 🔗 Back-end & APIs
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,spring" />
+<img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 ### 🛠️ Development Tools
