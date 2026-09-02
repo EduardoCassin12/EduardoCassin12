@@ -57,7 +57,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,sql,git,github,vscode&perline=3" />
+<img src="https://skillicons.dev/icons?i=java,sql,git,github,vscode&perline=3" />
 
 <br><br>
 
